@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkPrac", "NetworkPrac\NetworkPrac.csproj", "{7496DE12-7A08-4830-914C-F3704C379977}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passhash", "Passhash\Passhash.csproj", "{617869BF-3CA8-4E32-91C7-F4948B51F75A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestPassHash", "XUnitTestPassHash\XUnitTestPassHash.csproj", "{9EA2A786-C75B-4B91-B766-AA5F7B847E65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7496DE12-7A08-4830-914C-F3704C379977}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7496DE12-7A08-4830-914C-F3704C379977}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7496DE12-7A08-4830-914C-F3704C379977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617869BF-3CA8-4E32-91C7-F4948B51F75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617869BF-3CA8-4E32-91C7-F4948B51F75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617869BF-3CA8-4E32-91C7-F4948B51F75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617869BF-3CA8-4E32-91C7-F4948B51F75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA2A786-C75B-4B91-B766-AA5F7B847E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA2A786-C75B-4B91-B766-AA5F7B847E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA2A786-C75B-4B91-B766-AA5F7B847E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA2A786-C75B-4B91-B766-AA5F7B847E65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
